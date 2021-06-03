@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of the retailing vintners of London, and their propositions and demaundes contrived and made amongst themselves at their hall, in Novemb. 1637. Whereby it may appeare who projected the penny a quart on wines. To the Kings most excellent Majestie: the humble petition of your Majesties loyall subjects, the vintners and others, retaylors of wines, freemen of the citty of London..</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28060</idno><idno type="EEBO-CITATION">99888362</idno>
+  <idno type="VID">201895</idno>
+  <idno type="EEBO-PROQUEST">2240888675</idno>
+  
+            <idno type="STC">Wing P1832</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.12[77]</idno>
+            <idno type="STC">ESTC R229383</idno>
+            <idno type="PROQUEST">ocm99888362</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888362e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28060)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201895)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C26:3[77])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of the retailing vintners of London, and their propositions and demaundes contrived and made amongst themselves at their hall, in Novemb. 1637. Whereby it may appeare who projected the penny a quart on wines. To the Kings most excellent Majestie: the humble petition of your Majesties loyall subjects, the vintners and others, retaylors of wines, freemen of the citty of London..</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Walkeley, and are to be sold at his shop, at the signe of the flying Horse, between Brittains Bursse, and Yorke House,,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1641..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wine and wine making --  Taxation --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:201895:1"/>
+            <head>The Petition of the retailing Vintners of London, and their Propositions and De<g ref="char:EOLhyphen"/>maundes contrived and made amongst themselves at their Hall, in <hi>Novemb.</hi> 1637. Whereby it may appeare who projected the penny a Quart on Wines.</head>
+            <div type="part">
+               <head>
+                  <hi>To the Kings most Excellent Majestie:</hi> The humble Petition of your Majesties Loyall Subjects, the Vintners and others, Retaylors of Wines, Freemen of the Citty of London.</head>
+               <opener>Most humbly sheweth.</opener>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat whereas the Company of Vintners of London hath anciently in times past, beene a flourishing Company, and hath had and enjoyed sundrie ancient priviledges and immunities, whereby the Freemen of that Company have in the exercise of their Calling become men of eminent place and authority in this your Citty of London.</p>
+               <p>May it please your most excellent Majestie to be informed that of late times, the Wine Coopers have so invaded the priviledges, and intruded into the Trade and profession of the Vintners, as that the sayd ancient Company is much decayed thereby and impoverished, and like further to decline, unlesse by your Princely Clemency the same be restored and upheld. And therefore your humble Petitioners prostrating themselves at the feete of your sacred Majesty, doe most humbly pray your Majesty will be gratiously pleased to restore them to their ancient freedome in the use of their profession. And withall (for the better enabling them to doe your Majesty service, and goe on Cheerefully in their Callings) to grant unto them such further additions of your Princely Favours and immuni<g ref="char:EOLhyphen"/>ties, as are contained and expressed in the Schedule annexed, And to pardon all their delinquencies and transgressi<g ref="char:EOLhyphen"/>ons past.</p>
+               <p>And in an humble and thankefull acknowledgment of your Majesties so ample and royall favours extended to them, your humble Supplyants will with a free and unanimous consent pay to your Majesties use, and your royall Successors the summe of 2<hi>l.</hi> for every Tunne of Wine, which they shall hereafter retayle or vend within this your Kingdome, and as in duty bound will ever pray.</p>
+            </div>
+            <div type="part">
+               <head>The humble desires of the Retaylors of Wines.</head>
+               <p n="1">1. <seg rend="decorInit">T</seg>Hat all Merchants and others Importers of Wines into the Ports of London may be enjoyned to sell their Wines to none but Retaylors of Wines, being Vintners, to the end, your Majesty may have 2<seg rend="sup">l</seg>. on the Tunne, upon all the Wines that shall be imported, whereby the Merchants and others may not undersell the Vintners, and deprive your Majesty of the sayd 2<seg rend="sup">l</seg>. on the Tunne aforesayd, and the sayd Vintners he hindred both in their whole Sale and Retaile.</p>
+               <p n="2">2. That no Retaylors of Wines, and other Buyers of Wines, within any place or places of this Realme, be permitted to buy any Wines at any Port or places within this Realme, unlesse the said Retaylors or Buyers, doe pay the aforesayd 2<seg rend="sup">l</seg>. on the Tunne to his Majesty, otherwise it will come to passe that all Retaylors and other Buyers of Wines will furnish themselves, to save the 2<seg rend="sup">l</seg>. a Tunne, and neglect the free Vintners of London.</p>
+               <p n="3">3. That all Coopers and others may bee restrayned from intruding into the Vintners Trade, buying or selling Wines either in grosse or by retayle for time to come.</p>
+               <p n="4">4. That all free Vintners may dresse and sell Victuals, Beere, Sugar and Tobacco in their Houses in London, or elsewhere as anciently they have done heretofore, they buying their Tobacco of any licenced to sell it.</p>
+               <p n="5">5. That there may be a repayment by way of defalcation of the 6000<hi>l.</hi> which the Vintners payed into your Majesties receipt of the Exchequer, for a great part whereof they pay Interest at this day.</p>
+               <p n="6">6. That the graunting of Licences to retayle Wines within London and three miles Compasse, may be hereafter and henceforth restrayned, and none to be here<g ref="char:EOLhyphen"/>after graunted, And also that the free Vintners may have power according to their ancient Charter to draw Wines freely in the foure principall Roads, and all Citties and Port Townes within this Realme.</p>
+               <p n="7">7. That his Majestie will be graciously pleased to graunt to all free Vintners and Retaylors of Wines his most gracious generall and free Pardon for all delin<g ref="char:EOLhyphen"/>quencies and transgressions whatsoever by them committed in the exercise of their Trade, either by whole sale or retaile to this day, And also a Confirmation of their ancient Charter with liberty to adventure for Wine of all sorts, with such additions as it shall please your Majesty to Conferre on them, and to be an<g ref="char:EOLhyphen"/>nexed to their Charter.</p>
+               <p n="8">8. That all Retaylors of Wines within London and three miles thereof, may be reduced to be Freemen of the Company of Vintners, for the better government of their Trade in generall.</p>
+               <p n="9">9. That your Majestie will be graciously pleased to grant to the sayd free Vintners licence to sell at 1d a quart, over and above the prices yearely set by the Lords of the Councell; whereby they may be enabled to pay to your Majesty 2<seg rend="sup">l.</seg> upon the Tunne.</p>
+               <p n="10">10. That high Countrey Wines in regard of their extraordinary prices and small Caske, may be sold at 1<seg rend="sup">d</seg> a quart above the Rate allowed for ordinary French Wines.</p>
+               <p n="11">11. That if his Majesty hereafter shall be graciously pleased to let to farme the sayd 2<seg rend="sup">l</seg> per Tunne; Then that the Company of Vintners may be admitted to farme the same before any others.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Thomas Walkeley,</hi> and are to be sold at his Shop, at the signe of the flying Horse, between Brittains Bursse, and Yorke House, 1641.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
